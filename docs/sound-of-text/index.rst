@@ -53,6 +53,6 @@ Itulah berbagai kegunaan sound of text dan keuntungan yang akan didapatkan jika 
 
 - `Sound of text <https://soundoftext.com/>`_
 - `Apec2013.or.id <https://www.apec2013.or.id/>`_
-- `Karinov.co.id <https://karinov.co.id/`_
+- `Karinov.co.id <https://karinov.co.id/>`_
 - `Technolati.com <https://www.technolati.com>`_
 - `Sebuahutas.com <https://www.sebuahutas.com>`_
