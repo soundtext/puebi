@@ -83,6 +83,7 @@ Contents
    style-guide
    aksara-sunda/index
    google-assistant/index
+   sound-of-text/index
    suara-jawa/index
    ringtone-iphone/index
    pesan-wa/index
