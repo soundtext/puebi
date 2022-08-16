@@ -15,6 +15,27 @@ Terdapat banyak sekali kelebihan yang dimiliki oleh GBWhatsApp Mod Apk. Berikut 
 3. **Anti Virus**: Berdasarkan beberapa pengujian aplikasi ini tergolong aman dan anti virus di dalamnya. Jadi kamu dapat langsung melakukan proses instalasi setelah mendownload file Apknya.
 4. **Beragam Fitur Menarik**: GB WhatsApp dibekali dengan beragam fitur keren, menarik dan kekinian. Pastinya fitur-fitur tersebut tidak ada pada WhatsApp original, sehingga ini jadi kelebihan tersendiri bagi pengguna aplikasi keren ini. 
 
+Fitur-Fitur GB WhatsApp Terbaru
+--------------------
+
+- Fitur anti banned
+- Menyesuaikan setiap setting yang ada
+- Adanya tema yang beragam
+- Mudah digunakan dengan menu-menu yang simple
+- Dapat menentukan warna layar obrolan
+- Menyembunyikan media yang ada pada galeri ponsel kamu
+- Bisa mengatur wallpaper obrolan
+- Memiliki kata sandi untuk setiap percakapan
+- Menampilkan nama penelepon ketika menggunakan tema putih
+- Memiliki semua fitur standar dari `GB WhatsApp from Meta`_
+
+Kekurangan GB WhatsApp Pro APK
+----------------
+
+Semua aplikasi pastinya memiliki kelebihan dan kekurangan tersendiri. Setelah membahas tentang berbagai fitur unggulan yang terdapat pada aplikasi GB WhatsApp, pengguna juga harus mengetahui kekurangan dari aplikasi ini. Berikut beberapa kekurangan yang ada pada aplikasi GB WhatsApp, yang diketahui oleh pengguna:
+
+Karena aplikasi GB WhatsApp adalah aplikasi ilegal maka akan berpotensi mengalami spyware dan malware.Merugikan pengguna WhatsApp resmi, karena adanya fitur yang bisa membaca chat yang telah dihapus serta bisa mendownload status pengguna lain.Tidak adanya keamanan resmi karena belum terdaftar di Google Play Store atau Apple Store.Terdapat banyak fitur yang terkadang membuat pengguna bingung.
+
 Cara Download dan Instal GB WhatsApp
 ----------------
 
@@ -26,7 +47,6 @@ Untuk menginstal aplikasi ini di perangkatmu, pertama kamu harus download dulu l
 - Setelah itu buka file download apk GB WhatsApp, klik instal.
 - Pastikan proses instalasi hingga selesai dan aplikasi benar-benar terpasang di perangkat. 
 - Setelah dipastikan terpasang, silahkan kamu buka dan nikmati fitur-fitur unggulannya.
-
 
 Bagaimana Cara Mengizinkan Instal Aplikasi WA GB dari Sumber Tak Dikenal?
 ----------------------
@@ -46,3 +66,4 @@ References
 .. target-notes::
 
 .. _`GB WhatsApp`: https://www.sebuahutas.com/2022/06/gb-whatsapp-pro-v-download-apk-wa-gb.html
+.. _`GB WhatsApp from Meta`: https://www.autobild.co.id/2022/08/download-whatsapp-gb-pro-apk-wa-gb-meta.html
