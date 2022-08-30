@@ -82,6 +82,7 @@ Contents
 
    style-guide
    aksara-sunda/index
+   ssstiktok/index
    google-assistant/index
    sound-of-text/index
    suara-jawa/index
