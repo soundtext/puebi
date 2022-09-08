@@ -14,9 +14,18 @@ Teknologi text to speech yang sudah support bahasa Indonesia bisa kita temukan d
 Google Translate
 -----------
 
-Aplikasi pertama Anda dapat menggunakan Google Translate yang menjadi salah satu layanan terbaik dari pihak Google. Sebebarnya layanan ini dapat melakukan translate dari sebuah bahasa ke banyak bahasa lainnya. Akan tetapi rupanya tak hanya itu sebab Google Translate juga mempunyai fitur berupa text to speech. Fitur tersebut mampu mendukung sampai 100 bahasa yang otomatis termasuk untuk pilihan bahasa Indonesia salah satunya menggunakan situs `sound of text wa <https://www.sebuahutas.com/2022/05/sound-of-text-wa-indonesia-terbaru.html>`_.
+Aplikasi pertama Anda dapat menggunakan Google Translate yang menjadi salah satu layanan terbaik dari pihak Google. Sebebarnya layanan ini dapat melakukan translate dari sebuah bahasa ke banyak bahasa lainnya. Akan tetapi rupanya tak hanya itu sebab Google Translate juga mempunyai fitur berupa text to speech. Fitur tersebut mampu mendukung sampai 100 bahasa yang otomatis termasuk untuk pilihan bahasa Indonesia salah satunya menggunakan situs `sound of text wa <https://www.statmat.net/sound-of-text-wanita/>`_.
 
 Layanan google translate juga sudah support serta dapat berjalan untuk banyak sistem operasi maupun perangkat seperti komputer, laptop maupun ponsel Android ataupun iPhone iOS. Pastinya untuk cara pemakaiannya sangatlah mudah, kamu hanya perlu menentukan pilihan berupa referensi bahasa yang akan digunakan seperti bahasa Indonesia. Tetapi untuk platform Google Translate hanya dapat merubah tulisan menjadi suara tak lebih dari sebanyak 1500 karakter.
+
+Aplikasi Playdown Sound of Text
+-------------------
+
+Saat ini penggunaan suara Google Indonesia sebagai nada dering dari `Playdown.id <https://www.playdown.id/>`_ cukup populer di kalangan pengguna WhatsApp. Hal ini disebabkan suara Google Indonesia dinilai lebih unik dan menarik, dibandingkan dengan nada dering bawaan Hp.
+
+Kepopuleran Sound of text Playdown dalam mengubah text menjadi suara, menjadikannya sebagai pelopor munculnya beberapa situs yang menawarkan fitur serupa. Walau bukan satu-satunya, Playdown.id adalah salah satu situs terbaik yang menggunakan sistem sound of text yang banyak digunakan pengguna WhatsApp dari Indonesia.
+
+Cara menggunakannya pun sangat simpel, kamu cukup membuka alamat **www.playdown.id** lalu memasukkan teks dan memilih bahasa pada kolom tulisan yang tersedia. Selanjutnya, kamu bisa mengetuk tombol Play untuk memutar suara dan tekan tombol Download untuk menyimpan suara mp3 ke dalam hp.
 
 Aplikasi Voice Aloud Reader
 -----------
@@ -98,4 +107,4 @@ References
 .. target-notes::
 
 .. _`Suara Google`: https://www.technolati.com/2022/02/cara-bikin-suara-google-di-whatsapp.html
-.. _`Sound of text`: https://www.autobild.co.id/2022/04/sound-of-text-wa-di-android-dan-iphone.html
+.. _`Sound of text`: https://www.autobild.co.id/2022/07/sound-of-text-wa-lucu-bahasa-indonesia.html
