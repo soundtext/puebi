@@ -99,6 +99,7 @@ Contents
    pesan-wa/index
    tulisan-miring/index
    baby-font/index
+   translate/index
    
 **********
 References
