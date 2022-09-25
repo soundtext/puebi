@@ -90,7 +90,6 @@ Contents
    :maxdepth: 2
 
    style-guide
-   aksara-sunda/index
    ssstiktok/index
    google-assistant/index
    sound-of-text/index
@@ -99,6 +98,7 @@ Contents
    pesan-wa/index
    tulisan-miring/index
    baby-font/index
+   nada-sebut-nama/index
    translate/index
    
 **********
