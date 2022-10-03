@@ -108,4 +108,4 @@ References
 .. target-notes::
 
 .. _`Suara Google`: https://www.technolati.com/2022/02/cara-bikin-suara-google-di-whatsapp.html
-.. _`Sound of text`: https://www.autobild.co.id/2022/07/sound-of-text-wa-lucu-bahasa-indonesia.html
+.. _`Sound of text`: https://www.autobild.co.id/2022/09/sound-of-text-wa-keren-dengan-suara.html
