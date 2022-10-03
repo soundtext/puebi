@@ -1,5 +1,5 @@
 ###########################################
-Tutorial Text to Speech Google Bahasa Indonesia
+Tutorial Buat Suara Google Bahasa Indonesia dan Tulisan
 ###########################################
 
 Seiring dengan berjalannya teknologi, kini kamu pun bisa merubah tulisan menjadi suara atau terkenal dengan sebutan text to speech. Sebagai informasi, sebenarnya teknologi tersebut sudah muncul sejak waktu yang lama. Akan tetapi saat ini sudah cukup banyak pengguna terutama youtuber yang memakai TTS atau text to speech guna mengisi suara pada konten berupa video yang mereka buat.
@@ -14,7 +14,7 @@ Teknologi text to speech yang sudah support bahasa Indonesia bisa kita temukan d
 Google Translate
 -----------
 
-Aplikasi pertama Anda dapat menggunakan Google Translate yang menjadi salah satu layanan terbaik dari pihak Google. Sebebarnya layanan ini dapat melakukan translate dari sebuah bahasa ke banyak bahasa lainnya. Akan tetapi rupanya tak hanya itu sebab Google Translate juga mempunyai fitur berupa text to speech. Fitur tersebut mampu mendukung sampai 100 bahasa yang otomatis termasuk untuk pilihan bahasa Indonesia salah satunya menggunakan situs `sound of text wa <https://www.statmat.net/sound-of-text-wanita/>`_.
+Aplikasi pertama Anda dapat menggunakan Google Translate yang menjadi salah satu layanan terbaik dari pihak Google. Sebebarnya layanan ini dapat melakukan translate dari sebuah bahasa ke banyak bahasa lainnya. Akan tetapi rupanya tak hanya itu sebab Google Translate juga mempunyai fitur berupa text to speech. Fitur tersebut mampu mendukung sampai 100 bahasa yang otomatis termasuk untuk pilihan bahasa Indonesia salah satunya menggunakan situs **sound of text wa**.
 
 Layanan google translate juga sudah support serta dapat berjalan untuk banyak sistem operasi maupun perangkat seperti komputer, laptop maupun ponsel Android ataupun iPhone iOS. Pastinya untuk cara pemakaiannya sangatlah mudah, kamu hanya perlu menentukan pilihan berupa referensi bahasa yang akan digunakan seperti bahasa Indonesia. Tetapi untuk platform Google Translate hanya dapat merubah tulisan menjadi suara tak lebih dari sebanyak 1500 karakter.
 
@@ -57,7 +57,7 @@ Berikutnya ada aplikasi bernama T2 yakni layanan text to speech dengan penawaran
 
 Itulah sejumlah aplikasi text to speech seperti google voice Indonesia yang bisa Anda gunakan secara langsung.
 
-Beberapa tools bahasa aksara lokal Indonesia yang bisa kamu gunakan secara online: `Aksara Jawa <https://www.sebuahutas.com/2022/03/translate-aksara-jawa-online-dari-huruf.html>`_ dan `Aksara Sunda <https://www.sebuahutas.com/2022/04/translate-huruf-aksara-sunda-font-latin.html>`_.
+Beberapa tools bahasa aksara lokal Indonesia yang bisa kamu gunakan secara online: `Aksara Jawa`_ dan `Aksara Sunda`_.
 
 Cara Buat Suara Google di Situs Sound of Text
 ------------------------
@@ -107,5 +107,7 @@ References
 
 .. target-notes::
 
-.. _`Suara Google`: https://www.technolati.com/2022/02/cara-bikin-suara-google-di-whatsapp.html
+.. _`Suara Google`: https://www.technolati.com/2022/09/cara-bikin-suara-google-di-wa-tiktok.html
 .. _`Sound of text`: https://www.autobild.co.id/2022/09/sound-of-text-wa-keren-dengan-suara.html
+.. _`Aksara Jawa`: https://www.sebuahutas.com/aksara-jawa/
+.. _`Aksara Sunda`: https://www.sebuahutas.com/aksara-sunda/
