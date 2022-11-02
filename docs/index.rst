@@ -21,7 +21,7 @@ Layanan google translate juga sudah support serta dapat berjalan untuk banyak si
 Aplikasi Playdown Sound of Text
 -------------------
 
-Saat ini penggunaan suara Google Indonesia sebagai nada dering dari `Playdown.id <https://www.playdown.id/>`_ cukup populer di kalangan pengguna WhatsApp. Hal ini disebabkan suara Google Indonesia dinilai lebih unik dan menarik, dibandingkan dengan nada dering bawaan Hp.
+Saat ini penggunaan suara Google Indonesia sebagai nada dering dari Playdown.id cukup populer di kalangan pengguna WhatsApp. Hal ini disebabkan suara Google Indonesia dinilai lebih unik dan menarik, dibandingkan dengan nada dering bawaan Hp.
 
 Kepopuleran Sound of text Playdown dalam mengubah text menjadi suara, menjadikannya sebagai pelopor munculnya beberapa situs yang menawarkan fitur serupa. Walau bukan satu-satunya, Playdown.id adalah salah satu situs terbaik yang menggunakan sistem sound of text yang banyak digunakan pengguna WhatsApp dari Indonesia.
 
@@ -82,6 +82,25 @@ Adapun untuk buat suara google di situs Sound of text sangatlah mudah, bahkan ba
 
 Selanjutnya file hasil download tersebut akan tersimpan pada perangkat yang kamu gunakan. Kamu bisa mencari hasil unduhan tersebut di folder "Download". File suara yang telah kamu unduh tersebut selanjutnya bisa kamu manfaatkan secara gratis untuk keperluanmu. Kamu bisa menggunakannya untuk nada dering atau audio dalam video yang akan kamu buat.
 
+Cara Ganti Nada Dering WA dari Sound of text
+-----------------------
+
+Setelah berhasil membuat suara Google di Hp, proses selanjutnya adalah memasangkan suara Google tersebut di WhatsApp, agar bisa digunakan sebagai nada dering atau notifikasi. Untuk caranya, kamu bisa ikuti langkah di bawah ini dengan lengkap: 
+
+- Langkah 1: Buka aplikasi file Manager atau File Explorer.
+- Langkah 2: Kemudian pilih penyimpanan internal.
+- Langkah 3: Setelah itu, cari folder Ringtone atau Notifikasi.
+- Langkah 4: Jika belum ada, kamu bisa buat folder Ringtone atau Notifikasi terlebih dahulu.
+- Langkah 5: Pindahkan file audio yang sudah di download ke folder tersebut.
+- Langkah 6: Selanjutnya, kamu bisa buka WhatsApp, klik ikon tiga titik di pojok kanan atas.
+- Langkah 7: Masuk ke menu Setting atau pengaturan, dan klik notifikasi, lalu pilih nada audio yang telah disimpan pada folder notifikasi sebelumnya.
+- Langkah 8: Selesai.
+
+Lebih lengkap mengenai cara ganti nada dering bisa kamu pelajari di tutorial ringtone Android berikut ini:
+
+- https://www.autobild.co.id/2022/10/cara-ganti-nada-dering-wa-dengan-lagu.html
+- https://www.technolati.com/2022/11/cara-mengubah-nada-dering-wa-dengan.html
+
 ********
 Contents
 ********
@@ -100,6 +119,7 @@ Contents
    baby-font/index
    nada-sebut-nama/index
    translate/index
+   font-instagram/index
    
 **********
 References
@@ -108,6 +128,6 @@ References
 .. target-notes::
 
 .. _`Suara Google`: https://www.technolati.com/2022/09/cara-bikin-suara-google-di-wa-tiktok.html
-.. _`Sound of text`: https://www.autobild.co.id/2022/09/sound-of-text-wa-keren-dengan-suara.html
+.. _`Sound of text`: https://www.sebuahutas.com/sound-of-text/
 .. _`Aksara Jawa`: https://www.sebuahutas.com/aksara-jawa/
 .. _`Aksara Sunda`: https://www.sebuahutas.com/aksara-sunda/
