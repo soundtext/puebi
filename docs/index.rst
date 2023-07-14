@@ -2,14 +2,31 @@
 Tutorial Buat Suara Google Bahasa Indonesia dan Tulisan
 ###########################################
 
-Seiring dengan berjalannya teknologi, kini kamu pun bisa merubah tulisan menjadi suara atau terkenal dengan sebutan text to speech. Sebagai informasi, sebenarnya teknologi tersebut sudah muncul sejak waktu yang lama. Akan tetapi saat ini sudah cukup banyak pengguna terutama youtuber yang memakai TTS atau text to speech guna mengisi suara pada konten berupa video yang mereka buat.
+Text to speech adalah teknologi yang dapat mengubah teks menjadi suara. Teknologi ini telah ada sejak lama, tetapi baru-baru ini menjadi populer di kalangan YouTuber. Hal ini karena text to speech dapat digunakan untuk membuat video yang lebih menarik dan informatif.
 
-Pengertian secara sederhananya, fitur ataupun teknologi bernama text to speech memiliki kegunaan agar bisa merubah text atau tulisan menjadi suara dengan otomatis. Di sejumlah negara maju serta berkembembang, pemakaian text to speech ini terbilang sering dipakai contohnya di industri bisnis, pendidikan serta lainnya. Akan tetapi sayangnya tak seluruh aplikasi maupun website text to speech mendukung atau support bahasa Indonesia.
+Ada banyak cara untuk membuat text to speech. Salah satu cara yang paling mudah adalah dengan menggunakan aplikasi atau website text to speech. Ada banyak aplikasi dan website text to speech yang tersedia, baik yang gratis maupun berbayar.
+
+Jika Anda ingin membuat text to speech yang lebih keren dan unik, Anda dapat menggunakan beberapa trik berikut:
+
+- Gunakan suara yang berbeda-beda. Anda dapat menggunakan suara pria, wanita, anak-anak, atau bahkan suara kartun.
+- Gunakan bahasa yang berbeda-beda. Anda dapat menggunakan bahasa Indonesia, bahasa Inggris, atau bahasa lainnya.
+- Tambahkan musik atau efek suara. Musik atau efek suara dapat membuat text to speech Anda lebih menarik dan hidup.
+- Buat notifikasi WA kustom. Anda dapat membuat notifikasi kustom untuk text to speech Anda. Notifikasi kustom dapat membuat text to speech Anda lebih unik dan mudah dikenali.
+
+Berikut adalah beberapa contoh text to speech yang keren dan unik:
+
+- Text to speech yang menggunakan suara pria ganteng
+- Text to speech yang menggunakan bahasa Korea
+- Text to speech yang menggunakan suara bayi
+- Text to speech yang menggunakan suara kartun Spongebob Squarepants
+- Text to speech yang menggunakan notifikasi kustom
+
+Text to speech dapat digunakan untuk berbagai keperluan. Anda dapat menggunakannya untuk membuat video, podcast, atau bahkan untuk membuat nada dering. Text to speech adalah teknologi yang sangat serbaguna dan dapat digunakan untuk membuat berbagai jenis konten yang menarik dan informatif.
 
 Daftar Aplikasi Text To Speech Support Bahasa Indonesia Unggulan
 ==================
 
-Teknologi text to speech yang sudah support bahasa Indonesia bisa kita temukan dalam layanan berupa `suara Google`_ Indonesia. Akan tetapi tak jarang terdapat pengguna yang merasa kurang cocok jika memakai suara dari fitur tersebut. Bagi kamu yang mencari alternative lain berupa aplikasi text to speech, silahkan melihat referensi di bawah ini lalu menemukan baik aplikasi ataupun website yang dapat merubah teks menjadi juara. Berikut adalah referensinya untuk Kamu:
+Teknologi text to speech yang sudah support bahasa Indonesia bisa kita temukan dalam layanan berupa `sound of text wa`_ Indonesia. Akan tetapi tak jarang terdapat pengguna yang merasa kurang cocok jika memakai suara dari fitur tersebut. Bagi kamu yang mencari alternative lain berupa aplikasi text to speech, silahkan melihat referensi di bawah ini lalu menemukan baik aplikasi ataupun website yang dapat merubah teks menjadi juara. Berikut adalah referensinya untuk Kamu:
 
 Google Translate
 -----------
@@ -25,7 +42,7 @@ Saat ini penggunaan suara Google Indonesia sebagai nada dering dari Playdown.id 
 
 Kepopuleran Sound of text Playdown dalam mengubah text menjadi suara, menjadikannya sebagai pelopor munculnya beberapa situs yang menawarkan fitur serupa. Walau bukan satu-satunya, Playdown.id adalah salah satu situs terbaik yang menggunakan sistem sound of text yang banyak digunakan pengguna WhatsApp dari Indonesia.
 
-Cara menggunakannya pun sangat simpel, kamu cukup membuka alamat **www.playdown.id** lalu memasukkan teks dan memilih bahasa pada kolom tulisan yang tersedia. Selanjutnya, kamu bisa mengetuk tombol Play untuk memutar suara dan tekan tombol Download untuk menyimpan suara mp3 ke dalam hp.
+Cara menggunakannya pun sangat simpel, kamu cukup membuka alamat https://playdown.id/ lalu memasukkan teks dan memilih bahasa pada kolom tulisan yang tersedia. Selanjutnya, kamu bisa mengetuk icon Play untuk memutar suara dan tekan icon Download untuk menyimpan suara mp3 ke dalam hp.
 
 Aplikasi Voice Aloud Reader
 -----------
@@ -53,9 +70,27 @@ Manfaat dari pemakaian sistem TTS keluaran Google yaitu adanya dukungan untuk ba
 Aplikasi T2S
 -----------
 
-Berikutnya ada aplikasi bernama T2 yakni layanan text to speech dengan penawaran salah satu antarmuka yang paling modern dari layanan serupa sebelumnya. Fitur menonjol dari aplikasi satu ini yaitu adanya browser situs bawaan yang terbilang sederhana. Hal ini tak akan memang tak berpengaruh banyak namun memungkinkan kamu dengan mudah bisa mendenarkan halaman situs tanpa merasa khawatir ketika menyalin URL.
+`Voice of text`_ adalah aplikasi yang dapat mengubah suara menjadi teks. Aplikasi ini menggunakan teknologi pengenalan suara (speech recognition) untuk mengubah suara menjadi teks yang dapat dibaca oleh manusia. Voice of text dapat digunakan untuk berbagai keperluan, seperti:
 
-Itulah sejumlah aplikasi text to speech seperti google voice Indonesia yang bisa Anda gunakan secara langsung.
+- Mentranskripsikan audio menjadi teks
+- Membuat catatan dari rekaman audio
+- Menerjemahkan bahasa
+- Mengontrol perangkat dengan suara
+- Membantu orang yang mengalami gangguan pendengaran
+
+Voice of text adalah teknologi yang sangat bermanfaat bagi orang-orang yang membutuhkan. Aplikasi ini dapat membantu mereka untuk berkomunikasi lebih mudah dan efektif. Voice of text juga dapat membantu mereka untuk belajar dan bekerja lebih baik.
+
+Berikut adalah beberapa contoh aplikasi alternatif voice of text yang populer:
+
+- Google Cloud Speech-to-Text
+- Microsoft Azure Speech Services
+- Amazon Transcribe
+- IBM Watson Speech to Text
+- Baidu Speech
+
+Aplikasi voice of text dapat digunakan di berbagai perangkat, seperti komputer, laptop, tablet, dan smartphone. Aplikasi ini juga dapat digunakan di berbagai bahasa, termasuk bahasa Inggris, bahasa Indonesia, bahasa Mandarin, bahasa Jepang, dan bahasa Korea.
+
+Voice of text adalah teknologi yang terus berkembang. Seiring dengan perkembangan teknologi, aplikasi voice of text akan menjadi semakin canggih dan mudah digunakan.
 
 Beberapa tools bahasa aksara lokal Indonesia yang bisa kamu gunakan secara online: `Aksara Jawa`_ dan `Aksara Sunda`_.
 
@@ -99,7 +134,7 @@ Setelah berhasil membuat suara Google di Hp, proses selanjutnya adalah memasangk
 Lebih lengkap mengenai cara ganti nada dering bisa kamu pelajari di tutorial ringtone Android berikut ini:
 
 - https://www.autobild.co.id/2022/10/cara-ganti-nada-dering-wa-dengan-lagu.html
-- https://www.technolati.com/2022/11/cara-mengubah-nada-dering-wa-dengan.html
+- https://www.voiceoftext.com/p/sound-of-text-wa.html
 
 ********
 Contents
@@ -127,7 +162,8 @@ References
 
 .. target-notes::
 
-.. _`Suara Google`: https://www.technolati.com/2022/09/cara-bikin-suara-google-di-wa-tiktok.html
-.. _`Sound of text`: https://www.sebuahutas.com/sound-of-text/
+.. _`sound of text wa`: https://www.autobild.co.id/2023/05/8-sound-of-text-wa-yang-keren-bahasa.html
+.. _`Sound of text`: https://www.soundoftext.co.id
+.. _`Voice of text`: https://www.voiceoftext.com
 .. _`Aksara Jawa`: https://www.sebuahutas.com/aksara-jawa/
 .. _`Aksara Sunda`: https://www.sebuahutas.com/aksara-sunda/
