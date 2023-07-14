@@ -1,5 +1,5 @@
 ###########################################
-Tutorial Buat Suara Google Bahasa Indonesia dan Tulisan
+Tutorial Buat Suara Google Bahasa Indonesia dari Tulisan Sendiri
 ###########################################
 
 Text to speech adalah teknologi yang dapat mengubah teks menjadi suara. Teknologi ini telah ada sejak lama, tetapi baru-baru ini menjadi populer di kalangan YouTuber. Hal ini karena text to speech dapat digunakan untuk membuat video yang lebih menarik dan informatif.
