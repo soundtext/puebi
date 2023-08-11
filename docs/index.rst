@@ -131,9 +131,22 @@ Setelah berhasil membuat suara Google di Hp, proses selanjutnya adalah memasangk
 - Langkah 7: Masuk ke menu Setting atau pengaturan, dan klik notifikasi, lalu pilih nada audio yang telah disimpan pada folder notifikasi sebelumnya.
 - Langkah 8: Selesai.
 
+5 Kata-kata Nada Dering Suara Bahasa Indonesia
+---------------------
+
+Sebagai nada dering suara Google, kata-kata yang dipilih haruslah mencerminkan kesan profesional, ramah, dan modern. Berikut adalah 5 contoh kata-kata yang cocok untuk dijadikan nada dering suara Google:
+
+- "Halo! Google di sini."
+- "Siap membantu Anda."
+- "Google mendengar Anda."
+- "Ayo cari tahu bersama!"
+- "Ada yang bisa saya bantu?"
+
+Tentunya, nada dering idealnya akan disesuaikan dengan karakteristik pengguna dan preferensinya. Namun, kata-kata di atas dapat menjadi referensi awal untuk merancang nada dering yang menarik dan efektif.
+
 Lebih lengkap mengenai cara ganti nada dering bisa kamu pelajari di tutorial ringtone Android berikut ini:
 
-- https://www.autobild.co.id/2022/10/cara-ganti-nada-dering-wa-dengan-lagu.html
+- https://www.soundoftext.co.id/
 - https://www.voiceoftext.com/p/sound-of-text-wa.html
 
 ********
@@ -162,7 +175,7 @@ References
 
 .. target-notes::
 
-.. _`sound of text wa`: https://www.autobild.co.id/2023/05/8-sound-of-text-wa-yang-keren-bahasa.html
+.. _`sound of text wa`: https://www.sebuahutas.com/sound-of-text/
 .. _`Sound of text`: https://www.soundoftext.co.id
 .. _`Voice of text`: https://www.voiceoftext.com
 .. _`Aksara Jawa`: https://www.sebuahutas.com/aksara-jawa/
