@@ -14,8 +14,8 @@ Contents
    :maxdepth: 2
 
    style-guide
-   kata/index
    huruf/index
+   kata/index
    tanda-baca/index
    unsur-serapan/index
 
