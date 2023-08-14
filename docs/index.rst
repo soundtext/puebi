@@ -6,45 +6,18 @@ PUEBI Daring adalah versi web ramah gawai dari *Pedoman Umum Ejaan Bahasa Indone
 
 Pada 28 Juli 2021, Badan Bahasa mengeluarkan `Keputusan Kepala Badan Bahasa 321/2021 <https://badanbahasa.kikbud.go.id/lamanbahasa/sites/default/files/Salinan%20RKKB%20PUEBI.pdf>`_ tentang Pedoman Umum Ejaan Bahasa Indonesia yang menggantikan Permendikbud 50/2015. Isi kedua dokumen itu kurang lebih sama sehingga isi PUEBI Daring ini masih belum perlu diubah.
 
-Daftar Isi
-----------
+********
+Contents
+********
 
-1. `Pemakaian Huruf <huruf/index.html>`_
-	- `Huruf Abjad <huruf/huruf-abjad.html>`_
-	- `Huruf Vokal <huruf/huruf-vokal.html>`_
-	- `Huruf Konsonan <huruf/huruf-konsonan.html>`_
-	- `Huruf Diftong <huruf/huruf-diftong.html>`_
-	- `Gabungan Huruf Konsonan <huruf/gabungan-huruf-konsonan.html>`_
-	- `Huruf Kapital <huruf/huruf-kapital.html>`_
-	- `Huruf Miring <huruf/huruf-miring.html>`_
-	- `Huruf Tebal <huruf/huruf-tebal.html>`_
-2. `Penulisan Kata <kata/index.html>`_
-	- `Kata Dasar <kata/kata-dasar.html>`_
-	- `Kata Berimbuhan <kata/kata-berimbuhan.html>`_
-	- `Bentuk Ulang <kata/bentuk-ulang.html>`_
-	- `Gabungan Kata <kata/gabungan-kata.html>`_
-	- `Pemenggalan Kata <kata/pemenggalan-kata.html>`_
-	- `Kata Depan <kata/kata-depan.html>`_
-	- `Partikel <kata/partikel.html>`_
-	- `Singkatan dan Akronim <kata/singkatan-dan-akronim.html>`_
-	- `Angka dan Bilangan <kata/angka-dan-bilangan.html>`_
-	- `Kata Ganti <kata/kata-ganti.html>`_
-	- `Kata Sandang <kata/kata-sandang.html>`_
-3. `Pemakaian Tanda Baca <tanda-baca/index.html>`_
-	- `Tanda Titik (.) <tanda-baca/tanda-titik.html>`_
-	- `Tanda Koma (,) <tanda-baca/tanda-koma.html>`_
-	- `Tanda Titik Koma (;) <tanda-baca/tanda-titik-koma.html>`_
-	- `Tanda Titik Dua (:) <tanda-baca/tanda-titik-dua.html>`_
-	- `Tanda Hubung (-) <tanda-baca/tanda-hubung.html>`_
-	- `Tanda Pisah (—) <tanda-baca/tanda-pisah.html>`_
-	- `Tanda Tanya (?) <tanda-baca/tanda-tanya.html>`_
-	- `Tanda Seru (!) <tanda-baca/tanda-seru.html>`_
-	- `Tanda Elipsis (…) <tanda-baca/tanda-elipsis.html>`_
-	- `Tanda Petik ("…") <tanda-baca/tanda-petik.html>`_
-	- `Tanda Petik Tunggal ('…') <tanda-baca/tanda-petik-tunggal.html>`_
-	- `Tanda Kurung ((…)) <tanda-baca/tanda-kurung.html>`_
-	- `Tanda Kurung Siku ([…]) <tanda-baca/tanda-kurung-siku.html>`_
+.. toctree::
+   :maxdepth: 2
 
+   style-guide
+   kata/index
+   game/index
+   tanda-baca/index
+   unsur-serapan/index
 
 Latar Belakang
 ---------
