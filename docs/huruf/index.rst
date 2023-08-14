@@ -1,11 +1,11 @@
 I. Pemakaian Huruf
 ==================
 
-A. `Huruf Abjad <huruf-abjad.md>`_
-B. `Huruf Vokal <huruf-vokal.md>`_
-C. `Huruf Konsonan <huruf-konsonan.md>`_
-D. `Huruf Diftong <huruf-diftong.md>`_
-E. `Gabungan Huruf Konsonan <gabungan-huruf-konsonan.md>`_
-F. `Huruf Kapital <huruf-kapital.md>`_
-G. `Huruf Miring <huruf-miring.md>`_
-H. `Huruf Tebal <huruf-tebal.md>`_
+A. `Huruf Abjad <huruf-abjad.html>`_
+B. `Huruf Vokal <huruf-vokal.html>`_
+C. `Huruf Konsonan <huruf-konsonan.html>`_
+D. `Huruf Diftong <huruf-diftong.html>`_
+E. `Gabungan Huruf Konsonan <gabungan-huruf-konsonan.html>`_
+F. `Huruf Kapital <huruf-kapital.html>`_
+G. `Huruf Miring <huruf-miring.html>`_
+H. `Huruf Tebal <huruf-tebal.html>`_

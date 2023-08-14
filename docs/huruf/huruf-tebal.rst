@@ -10,7 +10,7 @@ Misalnya:
 
 !!! note "Catatan"
 	1. PUEBI 2015 menambahkan klausul ini.
-	2. Huruf tebal *tidak* dipakai untuk menegaskan atau mengkhususkan huruf, bagian kata, kata, atau kelompok kata dalam kalimat. Untuk tujuan ini, gunakan [huruf miring](huruf-miring.md).
+	2. Huruf tebal *tidak* dipakai untuk menegaskan atau mengkhususkan huruf, bagian kata, kata, atau kelompok kata dalam kalimat. Untuk tujuan ini, gunakan [huruf miring](huruf-miring.html).
 
 !!! important ""
 	**I.H.2** Huruf tebal dapat dipakai untuk menegaskan bagian-bagian karangan, seperti judul buku, bab, atau subbab.

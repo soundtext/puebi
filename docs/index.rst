@@ -9,41 +9,41 @@ Pada 28 Juli 2021, Badan Bahasa mengeluarkan `Keputusan Kepala Badan Bahasa 321/
 Daftar Isi
 ----------
 
-1. `Pemakaian Huruf <huruf/index>`_
-	- `Huruf Abjad <huruf/huruf-abjad>`_
-	- `Huruf Vokal <huruf/huruf-vokal>`_
-	- `Huruf Konsonan <huruf/huruf-konsonan>`_
-	- `Huruf Diftong <huruf/huruf-diftong>`_
-	- `Gabungan Huruf Konsonan <huruf/gabungan-huruf-konsonan>`_
-	- `Huruf Kapital <huruf/huruf-kapital>`_
-	- `Huruf Miring <huruf/huruf-miring>`_
-	- `Huruf Tebal <huruf/huruf-tebal>`_
-2. `Penulisan Kata <kata/index>`_
-	- `Kata Dasar <kata/kata-dasar>`_
-	- `Kata Berimbuhan <kata/kata-berimbuhan>`_
-	- `Bentuk Ulang <kata/bentuk-ulang>`_
-	- `Gabungan Kata <kata/gabungan-kata>`_
-	- `Pemenggalan Kata <kata/pemenggalan-kata>`_
-	- `Kata Depan <kata/kata-depan>`_
-	- `Partikel <kata/partikel>`_
-	- `Singkatan dan Akronim <kata/singkatan-dan-akronim>`_
-	- `Angka dan Bilangan <kata/angka-dan-bilangan>`_
-	- `Kata Ganti <kata/kata-ganti>`_
-	- `Kata Sandang <kata/kata-sandang>`_
-3. `Pemakaian Tanda Baca <tanda-baca/index>`_
-	- `Tanda Titik (.) <tanda-baca/tanda-titik>`_
-	- `Tanda Koma (,) <tanda-baca/tanda-koma>`_
-	- `Tanda Titik Koma (;) <tanda-baca/tanda-titik-koma>`_
-	- `Tanda Titik Dua (:) <tanda-baca/tanda-titik-dua>`_
-	- `Tanda Hubung (-) <tanda-baca/tanda-hubung>`_
-	- `Tanda Pisah (—) <tanda-baca/tanda-pisah>`_
-	- `Tanda Tanya (?) <tanda-baca/tanda-tanya>`_
-	- `Tanda Seru (!) <tanda-baca/tanda-seru>`_
-	- `Tanda Elipsis (…) <tanda-baca/tanda-elipsis>`_
-	- `Tanda Petik ("…") <tanda-baca/tanda-petik>`_
-	- `Tanda Petik Tunggal ('…') <tanda-baca/tanda-petik-tunggal>`_
-	- `Tanda Kurung ((…)) <tanda-baca/tanda-kurung>`_
-	- `Tanda Kurung Siku ([…]) <tanda-baca/tanda-kurung-siku>`_
+1. `Pemakaian Huruf <huruf/index.html>`_
+	- `Huruf Abjad <huruf/huruf-abjad.html>`_
+	- `Huruf Vokal <huruf/huruf-vokal.html>`_
+	- `Huruf Konsonan <huruf/huruf-konsonan.html>`_
+	- `Huruf Diftong <huruf/huruf-diftong.html>`_
+	- `Gabungan Huruf Konsonan <huruf/gabungan-huruf-konsonan.html>`_
+	- `Huruf Kapital <huruf/huruf-kapital.html>`_
+	- `Huruf Miring <huruf/huruf-miring.html>`_
+	- `Huruf Tebal <huruf/huruf-tebal.html>`_
+2. `Penulisan Kata <kata/index.html>`_
+	- `Kata Dasar <kata/kata-dasar.html>`_
+	- `Kata Berimbuhan <kata/kata-berimbuhan.html>`_
+	- `Bentuk Ulang <kata/bentuk-ulang.html>`_
+	- `Gabungan Kata <kata/gabungan-kata.html>`_
+	- `Pemenggalan Kata <kata/pemenggalan-kata.html>`_
+	- `Kata Depan <kata/kata-depan.html>`_
+	- `Partikel <kata/partikel.html>`_
+	- `Singkatan dan Akronim <kata/singkatan-dan-akronim.html>`_
+	- `Angka dan Bilangan <kata/angka-dan-bilangan.html>`_
+	- `Kata Ganti <kata/kata-ganti.html>`_
+	- `Kata Sandang <kata/kata-sandang.html>`_
+3. `Pemakaian Tanda Baca <tanda-baca/index.html>`_
+	- `Tanda Titik (.) <tanda-baca/tanda-titik.html>`_
+	- `Tanda Koma (,) <tanda-baca/tanda-koma.html>`_
+	- `Tanda Titik Koma (;) <tanda-baca/tanda-titik-koma.html>`_
+	- `Tanda Titik Dua (:) <tanda-baca/tanda-titik-dua.html>`_
+	- `Tanda Hubung (-) <tanda-baca/tanda-hubung.html>`_
+	- `Tanda Pisah (—) <tanda-baca/tanda-pisah.html>`_
+	- `Tanda Tanya (?) <tanda-baca/tanda-tanya.html>`_
+	- `Tanda Seru (!) <tanda-baca/tanda-seru.html>`_
+	- `Tanda Elipsis (…) <tanda-baca/tanda-elipsis.html>`_
+	- `Tanda Petik ("…") <tanda-baca/tanda-petik.html>`_
+	- `Tanda Petik Tunggal ('…') <tanda-baca/tanda-petik-tunggal.html>`_
+	- `Tanda Kurung ((…)) <tanda-baca/tanda-kurung.html>`_
+	- `Tanda Kurung Siku ([…]) <tanda-baca/tanda-kurung-siku.html>`_
 
 
 Latar Belakang
