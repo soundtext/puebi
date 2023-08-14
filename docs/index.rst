@@ -15,7 +15,7 @@ Contents
 
    style-guide
    kata/index
-   game/index
+   huruf/index
    tanda-baca/index
    unsur-serapan/index
 
