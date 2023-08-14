@@ -9,7 +9,7 @@ Pada 28 Juli 2021, Badan Bahasa mengeluarkan `Keputusan Kepala Badan Bahasa 321/
 Daftar Isi
 ----------
 
-1. **`Pemakaian Huruf <huruf/index>`_**
+1. `Pemakaian Huruf <huruf/index>`_
 	- `Huruf Abjad <huruf/huruf-abjad>`_
 	- `Huruf Vokal <huruf/huruf-vokal>`_
 	- `Huruf Konsonan <huruf/huruf-konsonan>`_
@@ -18,7 +18,7 @@ Daftar Isi
 	- `Huruf Kapital <huruf/huruf-kapital>`_
 	- `Huruf Miring <huruf/huruf-miring>`_
 	- `Huruf Tebal <huruf/huruf-tebal>`_
-2. **`Penulisan Kata <kata/index>`_**
+2. `Penulisan Kata <kata/index>`_
 	- `Kata Dasar <kata/kata-dasar>`_
 	- `Kata Berimbuhan <kata/kata-berimbuhan>`_
 	- `Bentuk Ulang <kata/bentuk-ulang>`_
@@ -30,7 +30,7 @@ Daftar Isi
 	- `Angka dan Bilangan <kata/angka-dan-bilangan>`_
 	- `Kata Ganti <kata/kata-ganti>`_
 	- `Kata Sandang <kata/kata-sandang>`_
-3. **`Pemakaian Tanda Baca <tanda-baca/index>`_**
+3. `Pemakaian Tanda Baca <tanda-baca/index>`_
 	- `Tanda Titik (.) <tanda-baca/tanda-titik>`_
 	- `Tanda Koma (,) <tanda-baca/tanda-koma>`_
 	- `Tanda Titik Koma (;) <tanda-baca/tanda-titik-koma>`_
