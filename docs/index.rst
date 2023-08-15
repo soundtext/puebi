@@ -112,6 +112,6 @@ References
 
 .. _`Sound of text wa`: https://www.sebuahutas.com/sound-of-text/
 .. _`Sound of text`: https://www.soundoftext.co.id
-.. _`Voice of text`: https://www.voiceoftext.com
+.. _`Voice of text`: https://www.voiceoftext.com/p/sound-of-text-wa.html
 .. _`Aksara Jawa`: https://www.sebuahutas.com/aksara-jawa/
 .. _`Aksara Sunda`: https://www.sebuahutas.com/aksara-sunda/
