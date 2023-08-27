@@ -18,6 +18,7 @@ Contents
    kata/index
    tanda-baca/index
    unsur-serapan/index
+   google-assistant/index
 
 Latar Belakang
 ---------
