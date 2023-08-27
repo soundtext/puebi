@@ -19,6 +19,9 @@ Contents
    tanda-baca/index
    unsur-serapan/index
    google-assistant/index
+   translate/index
+   tulisan-miring/index
+   nama-keren/index
 
 Latar Belakang
 ---------
