@@ -1,5 +1,5 @@
 ======================================
-Google Assitant
+Google Assistant
 ======================================
 
 Tahukah Anda bahwa Google mempunyai fitur yang sangat canggih guna membantu menyelesaikan berbagai pertanyaan? 
