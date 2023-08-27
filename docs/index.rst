@@ -7,7 +7,7 @@ PUEBI Daring adalah versi web ramah gawai dari *Pedoman Umum Ejaan Bahasa Indone
 Pada 28 Juli 2021, Badan Bahasa mengeluarkan `Keputusan Kepala Badan Bahasa 321/2021 <https://badanbahasa.kikbud.go.id/lamanbahasa/sites/default/files/Salinan%20RKKB%20PUEBI.pdf>`_ tentang Pedoman Umum Ejaan Bahasa Indonesia yang menggantikan Permendikbud 50/2015. Isi kedua dokumen itu kurang lebih sama sehingga isi PUEBI Daring ini masih belum perlu diubah.
 
 ********
-Contents
+Daftar Isi
 ********
 
 .. toctree::
@@ -18,6 +18,14 @@ Contents
    kata/index
    tanda-baca/index
    unsur-serapan/index
+
+********
+Tutorial Terkait
+********
+
+.. toctree::
+   :maxdepth: 1
+
    google-assistant/index
    translate/index
    tulisan-miring/index
