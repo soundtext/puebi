@@ -1,5 +1,5 @@
 ======================================
-Fitur Google Assitant Terbaru
+Google Assitant
 ======================================
 
 Tahukah Anda bahwa Google mempunyai fitur yang sangat canggih guna membantu menyelesaikan berbagai pertanyaan? 
