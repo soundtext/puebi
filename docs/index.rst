@@ -30,6 +30,7 @@ Tutorial Terkait
    translate/index
    tulisan-miring/index
    nama-keren/index
+   nama-panggilan/index
 
 Latar Belakang
 ---------
