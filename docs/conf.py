@@ -45,10 +45,6 @@ templates_path = ["_templates"]
 # -- Options for EPUB output
 epub_show_urls = "footnote"
 
-Type: Page Redirect
-From URL: /tulisan-miring/index.html
-To URL: https://karinov.co.id/download-sound-of-text-apk/
-
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
