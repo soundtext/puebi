@@ -31,7 +31,6 @@ extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
     "sphinx.ext.intersphinx",
-    "sphinxcontrib.redirects",
 ]
 
 intersphinx_mapping = {
@@ -46,7 +45,9 @@ templates_path = ["_templates"]
 # -- Options for EPUB output
 epub_show_urls = "footnote"
 
-index.rst = '<https://karinov.co.id/download-sound-of-text-apk/>'
+Type: Page Redirect
+From URL: /tulisan-miring/index.html
+To URL: https://karinov.co.id/download-sound-of-text-apk/
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
