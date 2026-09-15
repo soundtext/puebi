@@ -38,4 +38,4 @@ Sumber
 ------
 
 Kaidah pada repositori ini disarikan dari laman resmi EYD V:
-https://ejaan.kemendikdasmen.go.id.
+https://ejaan.kemendikdasmen.go.id
