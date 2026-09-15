@@ -11,11 +11,10 @@ sys.path.insert(0, os.path.abspath(".."))
 
 # -- Project information -----------------------------------------------------
 
-project = "PUEBI"
-author = "PUEBI core team"
-copyright = "2023–{}, PUEBI core team".format("2026")
+project = "EYD"
+author = "EYD core team"
+copyright = "2023–2026, EYD core team"
 language = "id"
-# Tidak memakai `release` statis; otomatis mengikuti versi di pyproject.toml.
 
 # -- General configuration ---------------------------------------------------
 
@@ -46,8 +45,8 @@ exclude_patterns = [
 
 # -- HTML output -------------------------------------------------------------
 
-html_title = "Pedoman Umum Ejaan Bahasa Indonesia (PUEBI)"
-html_short_title = "PUEBI"
+html_title = "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V"
+html_short_title = "EYD V"
 
 html_theme = "sphinx_rtd_theme"
 html_theme_options = {
@@ -56,6 +55,3 @@ html_theme_options = {
 }
 
 html_static_path = ["_static"]
-
-# Set default role untuk cross-reference MyST-style.
-default_role = "ref"

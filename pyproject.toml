@@ -3,15 +3,14 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "puebi"
-description = "Dokumentasi Sphinx untuk Pedoman Umum Ejaan Bahasa Indonesia (PUEBI)."
-authors = [{name = "PUEBI core team", email = "puebi@example.invalid"}]
+name = "eyd"
+description = "Dokumentasi Sphinx untuk Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V."
+authors = [{name = "EYD core team", email = "eyd@example.invalid"}]
 requires-python = ">=3.10"
 readme = "README.rst"
 license = {text = "CC-BY-4.0"}
 dynamic = ["version"]
 
 [project.urls]
-Documentation = "https://puebi.readthedocs.io/id/latest/"
-Source = "https://github.com/puebi/puebi"
-
+Documentation = "https://eyd.readthedocs.io/id/latest/"
+Source = "https://github.com/eyd/eyd"
