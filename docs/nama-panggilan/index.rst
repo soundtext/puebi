@@ -79,12 +79,6 @@ Untuk memilih aplikasi TTS yang tepat, Anda perlu mempertimbangkan beberapa fakt
 - **Kualitas suara**: Kualitas suara adalah faktor penting yang perlu diperhatikan. Pastikan untuk memilih aplikasi yang menawarkan kualitas suara yang baik.
   
 - **Bahasa yang didukung**: Pastikan untuk memilih aplikasi yang mendukung bahasa yang Anda inginkan.
-  
+   
 - **Biaya**: Biaya aplikasi TTS bervariasi. Pastikan untuk memilih aplikasi yang sesuai dengan anggaran Anda.
 
-Referensi lebih lanjut: 
-
-- `Nada dering wa menyebut nama pengirim <https://www.teknotuf.com/buat-nada-dering-wa-kustom-menjadi-menyebut-nama-pengirim/>`_
-- `Nada dering WA sebut nama kontak <https://www.emzeth.com/nada-dering-wa-sebut-nama-pengirimnya/>`_
-- `Suara Nada dering sebut nama <https://www.pelita.or.id/suara-nada-dering-wa-sebut-nama/>`_
-- `Download Nada dering menyebut nama kontak <https://www.sebuahutas.com/download-nada-dering-menyebut-nama-kontak/>`_

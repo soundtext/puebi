@@ -40,12 +40,12 @@ Adapun cara membuat nama atau username Instagram aesthetic secara otomatis bisa 
 generator, nantinya cukup memasukan satu nama pilihan Anda. Berikut cara buat nama IG keren 
 dan aesthetic selengkapnya:
 
-1. Silahkan buka jenis browser apapun di hp atau laptop Anda
-2. Kemudian akses situs generator IG aesthetic `font keren <https://www.sebuahutas.com/tulisan-keren/>`_
-3. Setelah itu, ketika nama pada kolom yang tersedia di situs
-4. Otomatis akan muncul daftar pilihan nama IG aesthetic
-5. Silahkan pilih salah satu, lalu copy nama Instagram tersebut
+1. Silahkan buka peramban web apapun di hp atau laptop Anda
+2. Akses fitur generator nama pengguna Instagram yang tersedia di platform pilihan Anda
+3. Ketikkan nama pada kolom yang tersedia
+4. Daftar pilihan nama pengguna Instagram yang aesthetic akan muncul
+5. Pilih salah satu, lalu salin nama pengguna tersebut
 
-Bagaimana jika ingin mengubah font nama IG menjadi lebih keren dan aesthetic? Caranya sangat 
-mudah, Anda bisa memilih jenis font yang diinginkan pada situs generator nama IG tersebut 
-lewat `nama instagram <https://www.sebuahutas.com/username-ig/>`_.
+Untuk mengubah tampilan huruf nama pengguna Instagram, gunakan fitur
+pemilihan gaya huruf yang umumnya sudah tersedia pada generator
+tersebut.

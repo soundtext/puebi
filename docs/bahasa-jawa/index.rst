@@ -34,8 +34,3 @@ Bahasa Jawa merupakan salah satu dari ribuan bahasa daerah yang ada di Indonesia
    Dalam Bahasa Jawa, ada aturan khusus dalam pembentukan kata, seperti penggunaan awalan, sisipan, dan akhiran.
 
 Penting untuk memahami nuansa dan kekayaan bahasa ini. Kesalahan dalam pemilihan kata atau struktur kalimat bisa memberikan makna yang berbeda. Oleh karena itu, memahami kaidah penulisan dengan baik akan membantu dalam menyampaikan pesan atau informasi dengan jelas dan tepat.
-
-Referensi:
-
-- `Konversi Aksara Jawa <https://www.sebuahutas.com/aksara-jawa/>`_
-- `Sound of text Bahasa Jawa <https://navi.id/cara-sound-of-text-jawa-buatan-sendiri-ada-di-hp/>`_
