@@ -3,7 +3,6 @@ I. Pemakaian Huruf
 
 .. toctree::
    :maxdepth: 1
-   :numbered:
 
    huruf-abjad
    huruf-vokal

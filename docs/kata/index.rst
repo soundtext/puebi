@@ -3,7 +3,6 @@ II. Penulisan Kata
 
 .. toctree::
    :maxdepth: 1
-   :numbered:
 
    kata-dasar
    kata-berimbuhan

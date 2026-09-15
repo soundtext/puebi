@@ -3,7 +3,6 @@ III. Pemakaian Tanda Baca
 
 .. toctree::
    :maxdepth: 1
-   :numbered:
 
    tanda-titik
    tanda-koma

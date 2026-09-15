@@ -29,7 +29,6 @@ Daftar Isi
    tulisan-miring/index
    bahasa-jawa/index
    nama-panggilan/index
-   nama-keren/index
 
 Tentang PUEBI
 -------------
