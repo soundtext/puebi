@@ -79,7 +79,7 @@ yang perlu diperhatikan:
 Lisensi
 -------
 
-Dokumen resmi PUEBI diterbitkan oleh pemerintah Republik Indonesia.
-Repositori ini mendokumentasikan ulang isi PUEBI untuk keperluan
+Dokumen resmi PUEBI ini diterbitkan oleh pemerintah Republik Indonesia.
+Repositori PUEBI mendokumentasikan ulang isi PUEBI untuk keperluan
 navigasi dan pencarian. Aturan ejaan itu sendiri tunduk pada peraturan
 perundang-undangan yang berlaku.
